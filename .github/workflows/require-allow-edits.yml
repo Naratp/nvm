@@ -22,7 +22,7 @@ jobs:
     - uses: ljharb/require-allow-edits@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-- ชื่อ : แคช
+- ชื่อ : naraTP 
   ใช้: actions/cache@v4.2.3
   กับ:
     # รายการไฟล์ ไดเรกทอรี และรูปแบบไวลด์การ์ดที่ต้องแคชและเรียกคืน
